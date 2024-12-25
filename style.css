@@ -79,3 +79,19 @@ body {
     margin-right:10px;
 }
 
+
+
+.footer-logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 70%;
+    margin-top: 0px;
+}
+.text1{
+    font-family: Arial;
+    margin-bottom: 0px;
+    text-align: center;
+    font-weight:bold;
+    color:#33455D;
+}
