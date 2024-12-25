@@ -82,16 +82,8 @@ body {
 
 
 .footer-logo{
-    display: block;
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
+    right: 0%;
     width: 100px;
     margin-top: 0px;
-}
-.text1{
-    font-family: Arial;
-    margin-bottom: 0px;
-    text-align: center;
-    font-weight:bold;
-    color:#33455D;
 }
